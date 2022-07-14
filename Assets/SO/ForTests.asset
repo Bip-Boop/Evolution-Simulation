@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b330a7aef1eb6df41b603f9d0b799860, type: 3}
+  m_Name: ForTests
+  m_EditorClassIdentifier: 
+  minCycleLenght: 0.1
+  maxCycleLenght: 8.76
+  maxIndentFromStart: 5.72
+  minLinearDrag: 0
+  maxLinearDrag: 4
+  minNormalConnectionLenght: 0.09
+  maxNormalConnectionLenght: 2
+  minExtendedConnectionLenght: 0.19
+  maxExtendedConnectionLenght: 3.68
+  minFrequency: 0
+  maxFrequency: 3
+  minNodeAmount: 2
+  maxNodeAmount: 8
+  scaleCycleChance: 0.05
+  extendedTimeMarkerChangeChance: 0.05
+  indentFromStartChangeChance: 0.057
+  linearDragChangeChance: 0.046
+  normalConnectionLenghtChangeChance: 0.02
+  extendedConnectionLenghtChangeChance: 0.046
+  frequencyChangeChance: 0.055
+  addNodeChance: 1
+  deleteNodeChance: 0.01
+  addConnectionChance: 0.015
+  deleteConnectionChance: 0.015
+  minScaleCycleFactor: 0.001
+  maxScaleCycleFactor: 2
+  minExtendedTimeMarkerChange: -1
+  maxExtendedTimeMarkerChange: 1
+  minIndentFromStartChange: -1
+  maxIndentFromStartChange: 1
+  minLinearDragChange: -0.5
+  maxLinearDragChange: 0.5
+  minNormalConnectionLenghtChange: -0.5
+  maxNormalConnectionLenghtChange: 0.5
+  minExtendedConnectionLenghtChange: -0.75
+  maxExtendedConnectionLenghtChange: 0.75
+  minFrequencyChange: -0.45
+  maxFrequencyChange: 0.45
